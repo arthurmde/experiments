@@ -1,0 +1,232 @@
+Exact reconstruction (22)
+Reconstruction preserving meaning (8)
+Garbage reconstruction (8)
+
+===================================
+eee
+Test for: Considerações sobre danos colaterais!
+Result (0): Considerações sobre danos colaterais!
+It takes 0.001012629 seconds
+===================================
+===================================
+rrr
+Test for: É evidente que isto não pode ser tolerado.
+Result (1094): É evidente que não pode ser tolerado. isto
+It takes 8.719843146 seconds
+===================================
+===================================
+ggg
+Test for: Não subsidiamos o aço, não fazemos dumping de aço.
+Result (10): Não subsidiamos aço, dumping de não o fazemos aço.
+It takes 105.489320816 seconds
+===================================
+===================================
+rrr
+Test for: O nosso mercado está aberto.
+Result (1): O nosso mercado aberto. está
+It takes 0.04307957 seconds
+===================================
+===================================
+eee
+Test for: Exorto a Comissão a desafiá-lo!
+Result (403): Exorto a Comissão a desafiá-lo!
+It takes 0.007997175 seconds
+===================================
+===================================
+eee
+Test for: Há que ir à luta!
+Result (1): Há que ir à luta!
+It takes 0.00977778 seconds
+===================================
+===================================
+rrr
+Test for: Temos de ser duros, e assim teremos êxito.
+Result (33): Temos de ser e duros, assim teremos êxito.
+It takes 10.032022858 seconds
+===================================
+===================================
+eee
+Test for: A causa é boa.
+Result (0): A causa é boa.
+It takes 0.001240939 seconds
+===================================
+===================================
+eee
+Test for: Os argumentos estão correctos.
+Result (0): Os argumentos estão correctos.
+It takes 0.000993842 seconds
+===================================
+===================================
+eee
+Test for: Hoje essa relação parece, pelo contrário, mais lassa.
+Result (4): Hoje essa relação parece, pelo contrário, mais lassa.
+It takes 9.919438151 seconds
+===================================
+===================================
+eee
+Test for: O aço é um assunto antigo.
+Result (93): O aço é um assunto antigo.
+It takes 0.08293897 seconds
+===================================
+===================================
+eee
+Test for: Concordo plenamente com as suas palavras.
+Result (232): Concordo plenamente com as suas palavras.
+It takes 0.044483727 seconds
+===================================
+===================================
+ggg
+Test for: Neste momento já não temos sobrecapacidade neste sector.
+Result (45): Neste já temos neste momento não sobrecapacidade sector.
+It takes 9.851536149 seconds
+===================================
+===================================
+eee
+Test for: Era necessário, contudo, resistir para garantir um futuro.
+Result (18): Era necessário, contudo, resistir para garantir um futuro.
+It takes 9.330840395 seconds
+===================================
+===================================
+ggg
+Test for: As negociações da OCDE deverão prosseguir e proporcionar resultados.
+Result (6): As da OCDE e prosseguir negociações deverão proporcionar resultados.
+It takes 108.930751881 seconds
+===================================
+===================================
+eee
+Test for: Obrigado por essa rapidez.
+Result (0): Obrigado por essa rapidez.
+It takes 0.000997542 seconds
+===================================
+===================================
+eee
+Test for: Estou a pensar, evidentemente, na Foreign Sales Corporation.
+Result (51): Estou a pensar, evidentemente, na Foreign Sales Corporation.
+It takes 10.465254207 seconds
+===================================
+===================================
+eee
+Test for: As relações transatlânticas navegam agora em águas turbulentas.
+Result (2): As relações transatlânticas navegam agora em águas turbulentas.
+It takes 10.475925676 seconds
+===================================
+===================================
+ggg
+Test for: A nossa retaliação tem de ser convincente.
+Result (659): A retaliação tem de ser nossa convincente.
+It takes 0.395453012 seconds
+===================================
+===================================
+rrr
+Test for: Mas precisamos igualmente de uma boa pilotagem.
+Result (149): Mas precisamos de uma boa igualmente pilotagem.
+It takes 0.334108477 seconds
+===================================
+===================================
+eee
+Test for: Temos de trabalhar na construção de um navio sólido.
+Result (107): Temos de trabalhar na construção de um navio sólido.
+It takes 112.781461179 seconds
+===================================
+===================================
+rrr
+Test for: Devemos mostrar que estamos a falar de negócios.
+Result (1401): Devemos mostrar estamos de que a falar negócios.
+It takes 10.669878341 seconds
+===================================
+===================================
+eee
+Test for: e
+Result (0): e
+It takes 8.4439e-05 seconds
+===================================
+===================================
+eee
+Test for: O Regulamento não garante liberdade de circulação.
+Result (9): O Regulamento não garante liberdade de circulação.
+It takes 0.384908653 seconds
+===================================
+===================================
+eee
+Test for: Apenas a declaram.
+Result (0): Apenas a declaram.
+It takes 0.000307023 seconds
+===================================
+===================================
+ggg
+Test for: Aquilo que o Parlamento pretende, agora, é uma explicação.
+Result (1605): Aquilo pretende, agora, é que o Parlamento uma explicação.
+It takes 114.613061619 seconds
+===================================
+===================================
+rrr
+Test for: Dedico as minhas últimas observações ao alargamento.
+Result (13): Dedico as minhas observações últimas ao alargamento.
+It takes 1.650195116 seconds
+===================================
+===================================
+ggg
+Test for: E por quê, Senhor Presidente?
+Result (0): E por quê, Senhor Presidente?
+It takes 0.006091345 seconds
+===================================
+===================================
+rrr
+Test for: Mas as respostas que recebo não são adequadas.
+Result (247): Mas que não são as respostas adequadas. recebo
+It takes 9.861367497 seconds
+===================================
+===================================
+eee
+Test for: Essa é minha primeira pergunta.
+Result (0): Essa é minha primeira pergunta.
+It takes 1.090287183 seconds
+===================================
+===================================
+ggg
+Test for: Queremos voltar a introduzi-lo por esta via?
+Result (18): Queremos introduzi-lo por voltar a esta via?
+It takes 0.414310013 seconds
+===================================
+===================================
+eee
+Test for: Uma modernização, bem entendido!
+Result (0): Uma modernização, bem entendido!
+It takes 0.001136179 seconds
+===================================
+===================================
+ggg
+Test for: O que ainda considero omisso é a calendarização.
+Result (571): O que é a ainda considero omisso calendarização.
+It takes 10.427328083 seconds
+===================================
+===================================
+rrr
+Test for: Todos temos de puxar a carroça no mesmo sentido.
+Result (31): Todos temos de a puxar carroça no mesmo sentido.
+It takes 114.574427867 seconds
+===================================
+===================================
+eee
+Test for: A Irlanda já informou que vai participar.
+Result (3): A Irlanda já informou que vai participar.
+It takes 1.595319766 seconds
+===================================
+===================================
+eee
+Test for: Está encerrado o debate.
+Result (5): Está encerrado o debate.
+It takes 0.001464154 seconds
+===================================
+===================================
+eee
+Test for: É preciso, portanto, fazer escolhas.
+Result (7): É preciso, portanto, fazer escolhas.
+It takes 0.070213333 seconds
+===================================
+===================================
+eee
+Test for: Deveríamos afastar-nos desse tipo de afirmações.
+Result (40): Deveríamos afastar-nos desse tipo de afirmações.
+It takes 0.062507666 seconds
+===================================

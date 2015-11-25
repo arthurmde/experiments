@@ -1,0 +1,226 @@
+Exact reconstruction (21)
+Reconstruction preserving meaning (9)
+Garbage reconstruction (8)
+
+==================================
+eee
+Test for: We wholeheartedly support this report too.
+Result (45): We wholeheartedly support this report too.
+It takes 0.03191998 seconds
+===================================
+===================================
+ggg
+Test for: Nonetheless, it still exists as a legal body.
+Result (99): Nonetheless, it as a legal still exists body.
+It takes 8.194537732 seconds
+===================================
+===================================
+rrr
+Test for: The European Union's budget will undoubtedly continue to grow.
+Result (424): The European Union's budget will continue to undoubtedly grow.
+It takes 97.510185691 seconds
+===================================
+===================================
+eee
+Test for: The debate is closed.
+Result (12): The debate is closed.
+It takes 0.00138621 seconds
+===================================
+===================================
+rrr
+Test for: The vote will take place tomorrow at 11 a.m.
+Result (403): The vote will take place at 11 a.m. tomorrow
+It takes 104.31921832 seconds
+===================================
+===================================
+eee
+Test for: Supplementary estimates for 2002 - DAB 1/2002
+Result (2): Supplementary estimates for 2002 - DAB 1/2002
+It takes 0.468329107 seconds
+===================================
+===================================
+ggg
+Test for: How will this EUR 4 million be managed?
+Result (173): How this will be EUR 4 million managed?
+It takes 10.446927641 seconds
+===================================
+===================================
+eee
+Test for: Despite this, there has been some criticism.
+Result (382): Despite this, there has been some criticism.
+It takes 0.402775033 seconds
+===================================
+===================================
+rrr
+Test for: This has been emphasised by the rapporteurs.
+Result (227): This has been the emphasised by rapporteurs.
+It takes 3.079233608 seconds
+===================================
+===================================
+eee
+Test for: This does not reflect the spirit of the Treaty.
+Result (542): This does not reflect the spirit of the Treaty.
+It takes 113.75462907 seconds
+===================================
+===================================
+ggg
+Test for: It made no reference at all to Parliament!
+Result (29): It made at all to no reference Parliament!
+It takes 12.554012207 seconds
+===================================
+===================================
+eee
+Test for: This is very bizarre.
+Result (34): This is very bizarre.
+It takes 0.001471555 seconds
+===================================
+===================================
+rrr
+Test for: We will vigorously resist any moves in this direction.
+Result (57): We in this direction. will vigorously resist any moves
+It takes 122.724579507 seconds
+===================================
+===================================
+eee
+Test for: What are these other sundry expenses?
+Result (0): What are these other sundry expenses?
+It takes 0.152816431 seconds
+===================================
+===================================
+eee
+Test for: The debate is closed.
+Result (12): The debate is closed.
+It takes 0.00137804 seconds
+===================================
+===================================
+rrr
+Test for: The vote will take place tomorrow at 11 a.m.
+Result (403): The vote will take place at 11 a.m. tomorrow
+It takes 120.370545237 seconds
+===================================
+===================================
+eee
+Test for: EU relations with South Caucasus
+Result (6): EU relations with South Caucasus
+It takes 0.104445194 seconds
+===================================
+===================================
+rrr
+Test for: However, the catastrophic situation is not entirely self-inflicted.
+Result (666): However, catastrophic situation is not the entirely self-inflicted.
+It takes 13.280786193 seconds
+===================================
+===================================
+ggg
+Test for: The environmental situation in the South Caucasus is alarming.
+Result (588): The South Caucasus is the situation in environmental alarming.
+It takes 124.535942394 seconds
+===================================
+===================================
+ggg
+Test for: All nations have skeletons in their historical cupboards.
+Result (5): All nations have in their skeletons historical cupboards.
+It takes 9.603712103 seconds
+===================================
+===================================
+eee
+Test for: Let us hope so!
+Result (49): Let us hope so!
+It takes 0.001515627 seconds
+===================================
+===================================
+eee
+Test for: The EU can operate as an active mediator.
+Result (10): The EU can operate as an active mediator.
+It takes 10.365105854 seconds
+===================================
+===================================
+eee
+Test for: Mr Gahrton and I are in agreement.
+Result (27): Mr Gahrton and I are in agreement.
+It takes 0.462688236 seconds
+===================================
+===================================
+eee
+Test for: Reflection and diplomacy are required.
+Result (0): Reflection and diplomacy are required.
+It takes 0.007680588 seconds
+===================================
+===================================
+eee
+Test for: I should like to single out two controversial points.
+Result (5415): I should like to single out two controversial points.
+It takes 133.71937661 seconds
+===================================
+===================================
+rrr
+Test for: All of these issues have been smouldering for years.
+Result (80): All of these issues have been for smouldering years.
+It takes 129.012459616 seconds
+===================================
+===================================
+eee
+Test for: No energy-supply lines can pass through the Caucasus.
+Result (9): No energy-supply lines can pass through the Caucasus.
+It takes 9.115442752 seconds
+===================================
+===================================
+eee
+Test for: That is not the case.
+Result (783): That is not the case.
+It takes 0.038533321 seconds
+===================================
+===================================
+eee
+Test for: It is Europe's gateway to Asia.
+Result (50): It is to Europe's gateway Asia.
+It takes 0.034630942 seconds
+===================================
+===================================
+ggg
+Test for: But where does this leave Europe?
+Result (10): But this does where leave Europe?
+It takes 0.033282442 seconds
+===================================
+===================================
+eee
+Test for: Thank you very much Mr President.
+Result (130): Thank you very much Mr President.
+It takes 0.031756132 seconds
+===================================
+===================================
+eee
+Test for: The debate is closed.
+Result (12): The debate is closed.
+It takes 0.000837956 seconds
+===================================
+===================================
+rrr
+Test for: The vote will take place tomorrow at 11 a.m.
+Result (403): The vote will take place at 11 a.m. tomorrow
+It takes 121.50766903 seconds
+===================================
+===================================
+ggg
+Test for: Impact of transport on public health
+Result (57): Impact of public health on transport
+It takes 0.10390658 seconds
+===================================
+===================================
+ggg
+Test for: This is also a very timely debate.
+Result (1111): also debate. This is a very timely
+It takes 0.426889553 seconds
+===================================
+===================================
+rrr
+Test for: I would counter that very strongly.
+Result (174): counter that I would very strongly.
+It takes 0.052934664 seconds
+===================================
+===================================
+eee
+Test for: We need to be very clear about that.
+Result (1476): We need to be very clear about that.
+It takes 13.079204555 seconds
+===================================
